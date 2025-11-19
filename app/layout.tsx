@@ -6,7 +6,7 @@ import './globals.css'; // Make sure Tailwind is imported here
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-    title: 'Algo Mission Control',
+    title: 'Trading Monitor',
     description: 'System Status',
 };
 
